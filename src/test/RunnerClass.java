@@ -25,6 +25,7 @@ public class RunnerClass {
 		abs.setBalance(1000);
 		
 		System.out.println(abs.getBalance());
+		
 
 	}
 
